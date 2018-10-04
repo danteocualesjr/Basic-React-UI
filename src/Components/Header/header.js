@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Avatar from './avatar';
-import HeaderTitle from './headerTitle';
-import HeaderText from './headerText';
+import Avatar from '../Avatar/avatar';
+import HeaderTitle from '../headerTitle';
+import HeaderText from '../headerText';
 
 const Header = () => {
     return (
